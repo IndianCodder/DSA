@@ -27,3 +27,7 @@ int main()
     }
     return 0;
 }
+
+
+// Input Array:    1 2 3 4 5 
+// Output Array :  5 4 3 2 1
